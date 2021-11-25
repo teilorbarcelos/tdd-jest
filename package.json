@@ -1,0 +1,19 @@
+{
+  "name": "tdd-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Teilor Souza Barcelos <tsb-@live.com>",
+  "license": "“MIT”",
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.4",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^27.3.1",
+    "jest": "^27.3.1",
+    "regenerator-runtime": "^0.13.9"
+  }
+}
